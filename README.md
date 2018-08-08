@@ -15,3 +15,13 @@ T
 F
 T
 T
+
+/*
+
+	#4 Incorrect :-(
+
+		You can use the ```rowspan``` attribute to make a row span multiple rows.
+
+		Remember, if any part of the text is wrong, the entire thing is False
+
+*/
